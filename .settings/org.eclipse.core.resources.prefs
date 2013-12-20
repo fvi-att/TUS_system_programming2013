@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/CaesarCrypt=EUC-JP
+encoding//src/CaesarCrypt/CaesarCipher.java=MS932
+encoding//src/CaesarCrypt/CaesarTool.java=UTF-8
